@@ -1,0 +1,15 @@
+{
+  "name": "03-calculator",
+  "version": "1.0.0",
+  "description": "BMI Calci",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashvi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
